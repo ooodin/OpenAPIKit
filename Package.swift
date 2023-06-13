@@ -6,7 +6,7 @@ let package = Package(
     name: "OpenAPIKit",
     platforms: [
         .macOS(.v10_10),
-        .iOS(.v11)
+        .iOS(.v13)
     ],
     products: [
         .library(
